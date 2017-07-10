@@ -1214,7 +1214,7 @@
           },
           "title2": "Plan 2<br><i>Nosotros lo hacemos,<br>Tu lo Administras!</i>",
           "subtitle2": "<span style=\"font-style: normal;\">El mejor Plan para sitios con Cambios Constantes!</span>",
-          "caption2": "Construiremos y Lanzaremos&nbsp;<br>un impactante Website<br>Accederas a nuestra sencilla pero poderosa plataforma&nbsp;<br>Asi podras hacer cambies cuando Tu quieras!<br>",
+          "caption2": "Construiremos y Lanzaremos&nbsp;<br>un impactante Website<br>Accederas a nuestra sencilla pero poderosa plataforma&nbsp;<br>Asi podras hacer cambios cuando Tu quieras!<br>",
           "button2": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DETALLES</a>",
           "media3": {
             "iconFont": {
@@ -1429,7 +1429,7 @@
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader8-bg2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader8-bg3.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
