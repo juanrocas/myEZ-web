@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "myEZweb.com",
-    "currentPage": "Spanish_Home.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1381,7 +1381,7 @@
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader8-bg5.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader8-bg7.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
