@@ -1425,11 +1425,16 @@
             "Extension"
           ],
           "_name": "extHeader8",
+          "_styles": {
+            "SPAN": {
+              "font-size": "46px"
+            }
+          },
           "_anchor": "extHeader8-x",
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader8-bg5.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader8-bg0.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1476,18 +1481,19 @@
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">GET STARTED</a>",
           "title": "<span style=\"font-weight: normal;\">Contacta nuestro equipo!</span>",
           "text": "Por favor usa esta forma para contactarnos!<br>Escucharás de nosotros antes de 12 horas!&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "SPAN": {
-              "font-size": "46px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            }
+          },
           "_anchor": "footer1-y",
           "_params": {
             "paddingTop": 2,
@@ -1501,13 +1507,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 myEZ-web.com",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-size": "14px"
-            }
-          }
+          "text": "Copyright (c) 2017 myEZ-web.com"
         }
       ]
     }
