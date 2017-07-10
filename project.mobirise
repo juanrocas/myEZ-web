@@ -551,7 +551,7 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">GET STARTED</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>",
           "title": "<span style=\"font-weight: normal;\">Contact myEZ team</span>",
           "text": "Please use this form to reach out!<br>We'll contact you in less than 12 hours!&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">MORE</a>"
@@ -1381,7 +1381,7 @@
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader8-bg7.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader8-bg8.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1425,7 +1425,7 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">GET STARTED</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
           "title": "<span style=\"font-weight: normal;\">Contacta nuestro equipo!</span>",
           "text": "Por favor usa esta forma para contactarnos!<br>Escucharás de nosotros antes de 12 horas!&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">MORE</a>"
