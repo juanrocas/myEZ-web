@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "myEZweb.com",
-    "currentPage": "Home.html",
+    "currentPage": "Spanish_Home.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1195,8 +1195,8 @@
               "newWindow": false
             }
           },
-          "title1": "Plan 1<br><i><span style=\"font-size: 1.25rem; line-height: 1.2825;\">Nosotros lo hacemos,</span><br>Nosotros lo manejamos!</i>",
-          "subtitle1": "<span style=\"font-style: normal;\">El mejor plan, cuando no tienes un plan!</span>",
+          "title1": "Plan 1<br><i><span style=\"font-size: 1.25rem; line-height: 1.2825;\">Nosotros lo hacemos,</span><br>Nosotros lo Administramos!</i>",
+          "subtitle1": "<span style=\"font-style: normal;\">El mejor Plan, cuando no tienes un Plan!</span>",
           "caption1": "Diseñaremos, Construiremos y Manejaremos<br>un impactante Website<br>Asi usted solo se enfocara en lo mas importante,<br>Crecer su negocio!<br>",
           "button1": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DETALLES</a> ",
           "media2": {
@@ -1212,8 +1212,8 @@
               "newWindow": false
             }
           },
-          "title2": "Plan 2<br><i>We Do it,<br>You Manage it!</i>",
-          "subtitle2": "<span style=\"font-style: normal;\">The Best Plan If You Only Constat, Is Change</span>",
+          "title2": "Plan 2<br><i>Nosotros lo hacemos,<br>Tu lo Administras!</i>",
+          "subtitle2": "<span style=\"font-style: normal;\">El mejor Plan para sitios con Cambios Constantes!</span>",
           "caption2": "Construiremos y Lanzaremos&nbsp;<br>un impactante Website<br>Accederas a nuestra sencilla pero poderosa plataforma&nbsp;<br>Asi podras hacer cambies cuando Tu quieras!<br>",
           "button2": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DETALLES</a>",
           "media3": {
@@ -1229,8 +1229,8 @@
               "newWindow": false
             }
           },
-          "title3": "Plan 3<br><i>We Do it,<br>You Do it!</i>",
-          "subtitle3": "<span style=\"font-style: normal;\">The Best Plan To Stay In Control</span>",
+          "title3": "Plan 3<br><i>Nosotros lo hacemos,<br>Y es Solo Tuyo!</i>",
+          "subtitle3": "<span style=\"font-style: normal;\">El mejor Plan para estar en control!</span>",
           "caption3": "Construiremos &nbsp;<br>un impactante Website<br>Nosotros te enviaremos los archivos, <br>Y tu te encargas del resto, El sitio es todo tuyo!",
           "button3": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DETALLES</a>",
           "media4": {
@@ -1429,7 +1429,7 @@
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader8-bg1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader8-bg2.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
